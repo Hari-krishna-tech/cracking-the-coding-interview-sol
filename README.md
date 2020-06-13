@@ -1,6 +1,7 @@
 # cracking-the-coding-interview-sol
 
-
+## List and String Questions
+1. Implement an algorithm to determine if a string has all unique characters.What if you __cannot__ use __additional__ data structure?
 
 
 
